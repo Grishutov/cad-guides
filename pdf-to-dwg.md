@@ -24,3 +24,6 @@
 - A layout sheet with title block if the client wants a printable PDF.
 - Save down to the version the client uses (e.g. AutoCAD 2018 DWG).
 - List anything that was unclear or estimated.
+
+## Worked example
+An old blue-line plan, scanned at an angle, redrawn as a layered DWG with door and window blocks and true dimensions: [scan to clean DWG](https://github.com/Grishutov/takeoff-samples#4-scanned-plan-to-a-clean-dwg).
