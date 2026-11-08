@@ -33,3 +33,5 @@ The three should agree within a few percent. If they do not, look for missing br
 - Volume table: cut, fill, net, topsoil, factors used, import or export.
 - Typical sections.
 - A list of assumptions and questions: datum, subgrade depths, factors, rock, haul-off allowed or not.
+
+Worked example: [earthwork cut and fill](https://github.com/Grishutov/takeoff-samples#7-earthwork-cut-and-fill---commercial-site-us-units).

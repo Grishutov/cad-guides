@@ -8,4 +8,4 @@ Short, practical guides from my day-to-day work with drawings. Each one is a che
 | [PDF or image to a clean DWG](pdf-to-dwg.md) | Import, scale, redraw on proper layers and deliver a DWG that someone else can work with |
 | [Cut and fill volumes](cut-and-fill.md) | Survey and grading design to earthwork volumes: surfaces, three methods, topsoil and shrink, what to deliver |
 
-More to come: measuring rules for finishes takeoffs, checking a BoQ against drawings.
+Trade-by-trade takeoff checklists (drywall, finishes, concrete, steel, doors, earthworks, checking a BoQ) are in [takeoff-checklists](https://github.com/Grishutov/takeoff-checklists).
